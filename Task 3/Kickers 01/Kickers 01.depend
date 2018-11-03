@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1540934077 source:c:\users\top\desktop\kickers 01\main.cpp
+	<iostream>
+	"Matrix.h"
+	<cmath>
+	<string>
+	<cstring>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+
+1540934108 source:c:\users\top\desktop\kickers 01\src\matrix.cpp
+	"Matrix.h"
+	<string>
+	<cstring>
+	<sstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<cmath>
+
+1540842190 c:\users\top\desktop\kickers 01\include\matrix.h
+	<iostream>
+	<vector>
+	<stdio.h>
+
+1540945439 source:c:\users\top\desktop\new folder (2)\kickers 01\src\matrix.cpp
+	"Matrix.h"
+	<string>
+	<cstring>
+	<sstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<stdio.h>
+	<cmath>
+	<numeric>
+	<functional>
+
+1540932690 c:\users\top\desktop\new folder (2)\kickers 01\include\matrix.h
+	<iostream>
+	<vector>
+	<stdio.h>
+
+1540945406 source:c:\users\top\desktop\new folder (2)\kickers 01\main.cpp
+	<iostream>
+	"Matrix.h"
+	<cmath>
+	<string>
+	<cstring>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+
+1540945439 source:c:\users\top\desktop\kickers 01\kickers 01\src\matrix.cpp
+	"Matrix.h"
+	<string>
+	<cstring>
+	<sstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<stdio.h>
+	<cmath>
+	<numeric>
+	<functional>
+
+1540932690 c:\users\top\desktop\kickers 01\kickers 01\include\matrix.h
+	<iostream>
+	<vector>
+	<stdio.h>
+
